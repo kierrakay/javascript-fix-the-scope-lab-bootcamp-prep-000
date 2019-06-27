@@ -6,6 +6,7 @@ var animal = "dog"
 
 function yourAnimal(string) {
   return "cat"
+  console.log(dog)
 }
 
 function add2(n) {
