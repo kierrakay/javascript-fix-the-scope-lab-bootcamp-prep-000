@@ -10,11 +10,12 @@ function yourAnimal(string) {
 
 function add2(n) {
   return (n + 2)
+  
   const two = 2
 }
 
-var funkyFunction = function(string) {
-  
+var funkyFunction = function() {
+  return function() {
     return "FUNKY!"
   }
 }
