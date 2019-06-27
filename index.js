@@ -1,9 +1,9 @@
 var animal = 'dog'
 
-function myAnimal() {
+function myAnimal(string) {
 var animal = "cat" 
 }
-function yourAnimal() {
+function yourAnimal(string) {
   return "cat"
   
 }
